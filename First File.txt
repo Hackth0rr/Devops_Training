@@ -1,1 +1,2 @@
 Comparison in Git
+Comparison in Git 1
